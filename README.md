@@ -17,26 +17,26 @@ mostrarColor(maskConjunto)
 <img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/totalidad.PNG"/>
 
 > Generamos imagen unicamente de color Amarillo:
-```
+```python
 mostrarColor(maskAmarrillo)
 ```
 <img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorAmarillo.PNG"/>
 
 > Generamos imagen unicamente de color Verde:
 
-```
+```python
 mostrarColor(maskVerde)
 ```
 <img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorVerde.PNG"/>
 
 > Generamos imagen unicamente de color Azul:
-```
+```python
 mostrarColor(maskAzul)
 ```
 <img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorAzul.PNG"/>
 
 > Generamos imagen unicamente de color Rojo:
-```
+```python
 mostrarColor(maskRojoTotal)
 ```
 <img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorRojo.PNG"/>
