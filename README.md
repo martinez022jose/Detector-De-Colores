@@ -11,7 +11,7 @@ Para poder correr el programa se requiere previamente:
 
 ## Ejecutando las pruebas :memo:
 > Generamos imagen en su totalidad: 
-```
+```python
 mostrarColor(maskConjunto)
 ```
 <img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/totalidad.PNG"/>
