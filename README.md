@@ -14,32 +14,32 @@ Para poder correr el programa se requiere previamente:
 ```
 mostrarColor(maskConjunto)
 ```
-<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/totalidad.PNG"/>
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/totalidad.PNG"/>
 
 > Generamos imagen unicamente de color Amarillo:
 ```
 mostrarColor(maskAmarrillo)
 ```
-<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorAmarillo.PNG"/>
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorAmarillo.PNG"/>
 
 > Generamos imagen unicamente de color Verde:
 
 ```
 mostrarColor(maskVerde)
 ```
-<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorVerde.PNG"/>
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorVerde.PNG"/>
 
 > Generamos imagen unicamente de color Azul:
 ```
 mostrarColor(maskAzul)
 ```
-<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorAzul.PNG"/>
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorAzul.PNG"/>
 
 > Generamos imagen unicamente de color Rojo:
 ```
 mostrarColor(maskRojoTotal)
 ```
-<img height="400px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorRojo.PNG"/>
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/colorRojo.PNG"/>
 
 ## Autor/Autores :pushpin:
 * **Jose Martinez Gutierrez**
