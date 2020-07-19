@@ -1,7 +1,7 @@
-# Detector De Colores :collision:
+# Detector De Colores :dizzy_face:
 
 ## Objetivo :dart:
-Mediante el uso del lenguaje de programacion Python y bibliotecas externas, como son OpenCV y NumPy. Se busca procesar una imagen y determinar los colores que aparecen en dicha imagen
+Mediante el uso del lenguaje de programacion Python y bibliotecas externas, como son OpenCV y NumPy. Se busca procesar una imagen y dividir la imagen dependiendo los colores que aparecen en dicha imagen
 
 ## Instalación :wrench:
 Para poder correr el programa se requiere previamente:
